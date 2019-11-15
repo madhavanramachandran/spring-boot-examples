@@ -15,4 +15,4 @@ jobs:
       with:
         java-version: 1.8
     - name: Build with Gradle
-      run: ./spring-hello-world/gradlew clean build
+      run: ./spring-hello-world/gradlew build
